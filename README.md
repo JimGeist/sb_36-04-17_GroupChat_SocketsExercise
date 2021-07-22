@@ -8,7 +8,7 @@
 
 Focus of the exercise was to explore good OO design for a sophisticated application and also to get hands-on practice with websockets.
 
-"*The goal of this exercise is to read and understand the code, if you’d like, there are some additional features you can implement."
+"*The goal of this exercise is to read and understand the code, if you’d like, there are some additional features you can implement.*"
 
 ## Additional Details
 
